@@ -1,22 +1,37 @@
+* {
+  font-family: 'Pavanam', sans-serif;
+}
 html,
 body {
   margin: 0;
   padding: 0;
+  font-family: 'Pavanam', sans-serif;
 }
 
 body {
-  background: #000;
+  background: #02021e;
   position: relative;
 }
 
+h1 {
+  color: #f58428;
+
+}
+
 .details {
+  color: #ff6890;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.contactme {
   color: white;
+  font-size: 14px;
   font-family: 'Ubuntu Mono', monospace;
 }
 
 .profile-link {
-  color: #019cdc;
-  font-size: 12px;
+  color: #f58428;
+  font-size: 13px;
   display: block;
 }
 
@@ -25,9 +40,13 @@ body {
   font-size: 12px;
 }
 
+a {
+  color: #FF8B68;
+}
+
 a:hover,
 a:visited:hover {
-  color: #7ac043;
+  color: #ff6890;
 }
 
 a:visited {
@@ -39,11 +58,11 @@ a:visited {
 }
 
 .square-two .inner {
-  background: #7ac043;
+  background: white;
 }
 
 .square-three .inner {
-  background: #019cdc;
+  background: #ff6890;
 }
 
 .outer {
