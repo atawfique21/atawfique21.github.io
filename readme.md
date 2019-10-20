@@ -1,4 +1,4 @@
-# Warm Up
+# Warm Up (completed)
 
 - We are going to publish the page to the web shortly with github pages. Your mission is to personalize this profile page by doing the following:
 
